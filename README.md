@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**Curetix/curetix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Curetix, a developer currently focused on building web projects with React, Next.js, Chakra UI, and Tailwind.
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=curetix&show_icons=true&theme=date_night)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- Working on [MailFlare](https://github.com/curetix/mailflare-extension)
+- Frontend developer for @LiveArchive
+
+Also take a look at my [homepage](https://curetix.eu).
+
+## Experience
+
+### Languages
+
+- TypeScript
+- Python
+- C#
+
+### Frameworks
+
+- Node.js
+- Bun
+- React
+- Next.js
+- .NET
+
+### Styling
+
+- Tailwind CSS
+- Panda CSS
+- Chakra UI
+- Mantine UI
+
+### Hosting
+
+- Vercel
+- Cloudflare Pages
+- Fly.io
+- VPS
