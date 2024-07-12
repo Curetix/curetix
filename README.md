@@ -7,7 +7,7 @@ I'm Curetix, a developer currently focused on building web projects with React, 
 ## Projects
 
 - Working on [MailFlare](https://github.com/curetix/mailflare-extension)
-- Frontend developer for @LiveArchive
+- Working on the frontend for [@LiveArchive](https://github.com/LiveArchive)
 
 Also take a look at my [homepage](https://curetix.eu).
 
