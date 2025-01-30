@@ -2,10 +2,9 @@
 
 I'm Curetix, a developer currently focused on building web projects with React, Next.js, Chakra UI, and Tailwind.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=curetix&show_icons=true&theme=date_night)
-
 ## Projects
 
+- Working as a full-time dev on React and Next.js apps
 - Working on [MailFlare](https://github.com/curetix/mailflare-extension)
 - Working on the frontend for [@LiveArchive](https://github.com/LiveArchive)
 
